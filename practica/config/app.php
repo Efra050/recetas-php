@@ -1,5 +1,4 @@
 <?php
-// Configuración
 
 define('BLOG_TITULO', 'Recetas de Efrain');
 define('BLOG_AUTOR', 'Efrain Guerrero');
